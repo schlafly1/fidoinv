@@ -1,0 +1,5 @@
+fido2>=2.0,<3
+# Optional: list YubiKey TOTP/OATH account names with --totp
+# yubikey-manager>=5
+# Optional: read OnlyKey slot labels with --totp
+# onlykey

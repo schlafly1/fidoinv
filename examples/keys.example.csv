@@ -1,0 +1,5 @@
+timestamp,token_label,record_type,product_name,model,aaguid,usb_serial,rp_id,rp_name,user_name,user_display_name,user_id,credential_id,cose_alg,public_key,public_key_cose,cred_protect,large_blob_key,note
+2026-11-10T17:45:00-08:00,yubikey-blue,device,YubiKey OTP+FIDO+CCID,YubiKey 5 Series with NFC,fa2b99dc-9e39-4257-8f92-4a30d23c4118,,,,,,,,,,,,,"2 passkey(s) listed; token reports 2 stored, 98 slot(s) free"
+2026-11-10T17:45:00-08:00,yubikey-blue,passkey,YubiKey OTP+FIDO+CCID,YubiKey 5 Series with NFC,fa2b99dc-9e39-4257-8f92-4a30d23c4118,,github.com,GitHub,example,Example User,0a1b2c3d,ZXhhbXBsZS1jcmVkLWlk,ES256 (-7),MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE...,pQECAyYgASFY...,2 (uvOptionalWithCredentialIDList),no,
+2026-11-10T17:45:00-08:00,yubikey-blue,totp,YubiKey OTP+FIDO+CCID,YubiKey 5 Series with NFC,fa2b99dc-9e39-4257-8f92-4a30d23c4118,,Example Corp,,example@example.com,,,,,,,,,"YubiKey OATH (serial 12345678) (TOTP, period 30s)"
+2026-11-10T17:50:00-08:00,old-feitian,device,FT-U2F,Feitian ePass FIDO2 Authenticator,833b721a-ff5f-4d00-bb2e-bdda3ec01e29,,,,,,,,,,,,,credential management not supported

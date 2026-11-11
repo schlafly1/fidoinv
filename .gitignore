@@ -1,0 +1,11 @@
+# inventory output may contain account names and site lists
+*.csv
+!examples/*.csv
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
